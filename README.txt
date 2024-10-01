@@ -1,4 +1,4 @@
-Instrumentos de medição:
+# Funcionalidades 'Instrumentos de Medição':
   [] Escolha entre procurar por KW, Norma ou Instrumento
   [] Modificar o KW de todos
   [] Modificar o KW do instrumento selecionado
@@ -6,3 +6,6 @@ Instrumentos de medição:
   [] Modificar data de retirada de todos
   [] Modificar data de retirada do instrumento selecionado
   [] Enter no input pra pesquisar
+
+# TODO
+- tratamento de dados
